@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\KomljenovicVladoDateTimeKO\KomljenovicVladoDateTimeKO\bin\Debug\KomljenovicVladoDateTimeKO.exe.config
+C:\Users\Ucenik\source\repos\KomljenovicVladoDateTimeKO\KomljenovicVladoDateTimeKO\bin\Debug\KomljenovicVladoDateTimeKO.exe
+C:\Users\Ucenik\source\repos\KomljenovicVladoDateTimeKO\KomljenovicVladoDateTimeKO\bin\Debug\KomljenovicVladoDateTimeKO.pdb
+C:\Users\Ucenik\source\repos\KomljenovicVladoDateTimeKO\KomljenovicVladoDateTimeKO\obj\Debug\KomljenovicVladoDateTimeKO.csprojAssemblyReference.cache
+C:\Users\Ucenik\source\repos\KomljenovicVladoDateTimeKO\KomljenovicVladoDateTimeKO\obj\Debug\KomljenovicVladoDateTimeKO.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\KomljenovicVladoDateTimeKO\KomljenovicVladoDateTimeKO\obj\Debug\KomljenovicVladoDateTimeKO.exe
+C:\Users\Ucenik\source\repos\KomljenovicVladoDateTimeKO\KomljenovicVladoDateTimeKO\obj\Debug\KomljenovicVladoDateTimeKO.pdb
